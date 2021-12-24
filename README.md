@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lenard123/lenard123/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 # Hi there 👋, I am Lenard Mangay-ayam
 
 ![Profile views](https://gpvc.arturio.dev/lenard123)  
