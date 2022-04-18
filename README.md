@@ -9,7 +9,7 @@
 
 #### Currently a 3rd year Computer Science student at University of Caloocan City. I am in love with web development as it is a way for me to express myself, my talents, and my skills by creating applications that many people can benefit from.
 
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning ReactJS
 - ⚡ Know more about me by visiting this link: https://lenard123.github.io/
 
 <hr/>
